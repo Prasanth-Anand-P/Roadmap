@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[Click Here](https://storied-fudge-4d45e3.netlify.app/) to view the deployment
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
